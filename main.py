@@ -1,4 +1,4 @@
 def get_greeting():
-  return "Hello, World!"  
+  return "Staging!"  
 message = get_greeting()
 print(message)
